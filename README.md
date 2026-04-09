@@ -1,8 +1,5 @@
 Admin Panel - MERN Stack
 
-
-
-
 Project Overview
 
 Ye Admin Panel ek full-stack web application hai jo MERN stack (MongoDB, Express.js, React.js, Node.js) par bana hai.
@@ -85,7 +82,7 @@ Dashboard
 Agents/Customers List
 Reports Page
 
-(Add screenshots here for better presentation)
+
 
 Commands
 
