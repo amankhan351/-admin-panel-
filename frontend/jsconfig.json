@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",      // use "Node" instead of "node10"
+    "jsx": "react-jsx",
+    "baseUrl": "src",
+    "paths": {
+      "@/*": ["*"]
+    },
+    "ignoreDeprecations": "6.0"      // ✅ add this line to silence warning
+  },
+  "include": ["src"]
+}
